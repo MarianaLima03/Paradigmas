@@ -7,3 +7,9 @@ i: variável que muda de 1 até 10 a cada repetição.
 resultado = numero * i: faz a multiplicação e guarda o resultado.
 print(): exibe o resultado na tela.
 f"{}": permite colocar o valor das variáveis dentro do texto exibido.
+
+Paradigmas:
+1- Programação Imperativa
+2- Programação Orientada a Objetos (POO)
+3- Programação Funcional
+4- Programação Procedural
